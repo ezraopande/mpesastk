@@ -1,0 +1,79 @@
+Reversal
+The URLs for this product are as follows:
+Proxy:OAuth2Token - https://api.safaricom.co.ke/oauth/v1/generate
+Proxy:Reversal - https://api.safaricom.co.ke/mpesa/reversal/v1/request
+
+C2B
+The URLs for this product are as follows:
+Proxy:OAuth2Token - https://api.safaricom.co.ke/oauth/v1/generate
+Proxy:C2B_v1 - https://api.safaricom.co.ke/mpesa/c2b/v1/registerurl
+
+TransactionStatus
+The URLs for this product are as follows:
+Proxy:OAuth2Token - https://api.safaricom.co.ke/oauth/v1/generate
+Proxy:TransactionStatus - https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+
+C2B Merchant Store
+The URLs for this product are as follows:
+Proxy:STKPush - https://api.safaricom.co.ke/mpesa/stkpush/v1/processrequest
+Proxy:CheckIdentityRequest - https://api.safaricom.co.ke/mpesa/checkidentity/v1/processrequest
+Proxy:TransactionStatus - https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+Proxy:AccountBalance - https://api.safaricom.co.ke/mpesa/accountbalance/v1/query
+Proxy:Reversal - https://api.safaricom.co.ke/mpesa/reversal/v1/request
+Proxy:C2B_v1 - https://api.safaricom.co.ke/mpesa/c2b/v1/registerurl
+Proxy:OAuth2Token - https://api.safaricom.co.ke/oauth/v1/generates
+
+C2B PayBill Head Office
+The URLs for this product are as follows:
+Proxy:Reversal - https://api.safaricom.co.ke/mpesa/reversal/v1/request
+Proxy:TransactionStatus - https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+Proxy:AccountBalance - https://api.safaricom.co.ke/mpesa/accountbalance/v1/query
+Proxy:STKPush - https://api.safaricom.co.ke/mpesa/stkpush/v1/processrequest
+Proxy:OAuth2Token - https://api.safaricom.co.ke/oauth/v1/generate
+Proxy:C2B_v1 - https://api.safaricom.co.ke/mpesa/c2b/v1/registerurl
+
+Merchant Head Office C2B
+The URLs for this product are as follows:
+Proxy:OAuth2Token - https://api.safaricom.co.ke/oauth/v1/generate
+Proxy:STKPush - https://api.safaricom.co.ke/mpesa/stkpush/v1/processrequest
+Proxy:CheckIdentityRequest - https://api.safaricom.co.ke/mpesa/checkidentity/v1/processrequest
+Proxy:C2B_v1 - https://api.safaricom.co.ke/mpesa/c2b/v1/registerurl
+Proxy:TransactionStatus - https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+Proxy:AccountBalance - https://api.safaricom.co.ke/mpesa/accountbalance/v1/query
+Proxy:Reversal - https://api.safaricom.co.ke/mpesa/reversal/v1/request
+
+C2B PayBill
+The URLs for this product are as follows:
+Proxy:C2B_v1 - https://api.safaricom.co.ke/mpesa/c2b/v1/registerurl
+Proxy:OAuth2Token - https://api.safaricom.co.ke/oauth/v1/generate
+Proxy:TransactionStatus - https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+
+C2B Pay Bill Store Product
+The URLs for this product are as follows:
+Proxy:C2B_v1 - https://api.safaricom.co.ke/mpesa/c2b/v1/registerurl
+Proxy:Reversal - https://api.safaricom.co.ke/mpesa/reversal/v1/request
+Proxy:TransactionStatus - https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+Proxy:AccountBalance - https://api.safaricom.co.ke/mpesa/accountbalance/v1/query
+Proxy:STKPush - https://api.safaricom.co.ke/mpesa/stkpush/v1/processrequest
+Proxy:CheckIdentityRequest - https://api.safaricom.co.ke/mpesa/checkidentity/v1/processrequest
+Proxy:OAuth2Token - https://api.safaricom.co.ke/oauth/v1/generate
+
+AccountBalance
+The URLs for this product are as follows:
+Proxy:OAuth2Token - https://api.safaricom.co.ke/oauth/v1/generate
+Proxy:AccountBalance - https://api.safaricom.co.ke/mpesa/accountbalance/v1/query
+
+B2C
+The URLs for this product are as follows:
+Proxy:B2C - https://api.safaricom.co.ke/mpesa/b2c/v1/paymentrequest
+Proxy:OAuth2Token - https://api.safaricom.co.ke/oauth/v1/generate
+Proxy:TransactionStatus - https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+Proxy:AccountBalance - https://api.safaricom.co.ke/mpesa/accountbalance/v1/query
+
+M-PESA EXPRESS (Lipa na Mpesa Production)
+The URLs for this product are as follows:
+Proxy:OAuth2Token - https://api.safaricom.co.ke/oauth/v1/generate
+Proxy:STKPush - https://api.safaricom.co.ke/mpesa/stkpush/v1/processrequest
+Proxy:STKPushQuery - https://api.safaricom.co.ke/mpesa/stkpushquery/v1/query
+
+
